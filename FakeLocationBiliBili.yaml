@@ -48,8 +48,8 @@ payload:
     - DOMAIN          , api.vc.bilibili.com
     - DOMAIN          , api.bilibili.com
     - DOMAIN          , app.bilibili.com
-   #- DOMAIN          , data.bilibili.com
-   #- DOMAIN          , mall.bilibili.com
+    - DOMAIN          , data.bilibili.com
+    - DOMAIN          , mall.bilibili.com
     - DOMAIN          , message.bilibili.com
    #- DOMAIN          , passport.bilibili.com
     
