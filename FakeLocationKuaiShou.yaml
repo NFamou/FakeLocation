@@ -28,8 +28,8 @@
 #  #- DOMAIN-KEYWORD , img-w.kuaishou.com                                               #     
 #
 #   - DOMAIN-KEYWORD , kwaizt.com                                                       # 
-#   - DOMAIN-KEYWORD , kuaishouzt.com                                                   #                                             
-#  #- DOMAIN-KEYWORD , api.kuaishouzt.com                                               #     
+    - DOMAIN-KEYWORD , kuaishouzt.com                                                   #                                             
+    - DOMAIN-KEYWORD , api.kuaishouzt.com                                               #     
 #   
 #   - DOMAIN-KEYWORD , kskwai.com                                                       #   
 #
